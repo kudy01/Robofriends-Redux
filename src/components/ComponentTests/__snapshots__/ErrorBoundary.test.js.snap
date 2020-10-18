@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Expect to render ErrorBoundary Component with error 1`] = `
+<h1>
+  Oops. You made an error
+</h1>
+`;
+
+exports[`Expect to render ErrorBoundary Component without error 1`] = `""`;
